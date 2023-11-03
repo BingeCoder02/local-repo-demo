@@ -1,10 +1,10 @@
-this is a new branch
+this is a new branch : feature2
 ************************************************************
 some branch commands
 
 git branch -> to check the current branch
 git branch -M main -> to rename branch
-git checkout <-branch name->  -> to navigate i.e. you checkout form the current branch
+git checkout <-branch name->  -> to navigate between branches
 git checkout -b <-new branch name-> -> to create new branch 
 git branch -d <-branch name->  -> to delete branch
     note : you can't delete a branch if your inside it ; you need to switch
