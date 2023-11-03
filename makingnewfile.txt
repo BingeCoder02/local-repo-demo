@@ -1,3 +1,15 @@
 first make a  new directory by using "mkdir (directory name)"
 then use "git init" to initialize the new repo -> this will make the file a 'git repo'
 then we can add file etc.
+*********************************************************************************
+"git remote add origin <-link->"  -> this sets origin as the link provided
+"git remote -v" -> to verify the origin
+"git branch" -> checks the branch
+"git branch -M main" -> to rename the branch
+***********************************************************************************
+SHORT CUT
+"git push -u origin main"
+-u -> sets upstream
+if we are working on the same project for a long time we can just use "git push"
+this will automatic tell that we are working on the same origin
+**************************************************************************************
