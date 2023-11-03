@@ -13,3 +13,7 @@ SHORT CUT
 if we are working on the same project for a long time we can just use "git push"
 this will automatic tell that we are working on the same origin
 **************************************************************************************
+How To Change Git Remote Origin
+$ git remote set-url <remote_name> <remote_url>
+$ git remote set-url origin https://git-repo/new-repository.git
+*****************************************************************************************
