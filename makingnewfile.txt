@@ -1,0 +1,3 @@
+first make a  new directory by using "mkdir (directory name)"
+then use "git init" to initialize the new repo -> this will make the file a 'git repo'
+then we can add file etc.
